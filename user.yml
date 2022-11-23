@@ -1,0 +1,9 @@
+---
+- name:
+  hosts: localhost
+  tasks:
+    - name: 
+      user:
+        name: user1
+        state: present
+ :wq!       
