@@ -1,6 +1,6 @@
 ---
 - name:
-  hosts: localhost
+  hosts: 192.168.0.142
   tasks:
     - name: 
       user:
