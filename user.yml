@@ -6,4 +6,4 @@
       user:
         name: user1
         state: present
- :wq!       
+ 
